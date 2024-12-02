@@ -1,0 +1,8 @@
+1-Loading dataset
+  a-Learning tensor's shapes and dimensions
+2-Importing model
+  a-Adding input and hidden layers
+  b-Compiling model
+3-Preparing labels and inputs
+4-Training model
+5-Showing results
