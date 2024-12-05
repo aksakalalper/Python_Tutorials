@@ -1,0 +1,10 @@
+graph types
+1-bar plot 
+2-scatter plot
+3-box plot
+4-violin plot
+5-pie chart
+6-sunburst graph
+7-heatmap
+8-bubble chart
+9-slope graph
