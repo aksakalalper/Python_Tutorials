@@ -9,15 +9,30 @@ graph types
 8-bubble chart
 9-slope graph
 
-regression types
+A-regression types
 
 1-linear regression y=b0+bx+e
 2-poly linear regression y=b0+b1x1+b2x2+e
-3-Non linear regression y=fitted line of x
+3-polynominal regression
 
+B-classification types
 
-4-logistic regression
+1-logistic regression
  4-a binomial logistic regression 0/1
  4-b multinomial logistic regression 0/0.5/1
+2-K-nearest neighbour
+3-Support vector machine
+4-Decision tree
+5-random forest
 
+C-clustering types
+
+1-k-means
+2-hierarchical clustering
+
+Choosing model
+1-Cross validation
+2-Grid search
+
+Reinforcement learning
 
