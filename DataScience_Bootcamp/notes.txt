@@ -8,3 +8,16 @@ graph types
 7-heatmap
 8-bubble chart
 9-slope graph
+
+regression types
+
+1-linear regression y=b0+bx+e
+2-poly linear regression y=b0+b1x1+b2x2+e
+3-Non linear regression y=fitted line of x
+
+
+4-logistic regression
+ 4-a binomial logistic regression 0/1
+ 4-b multinomial logistic regression 0/0.5/1
+
+
